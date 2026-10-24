@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Quem Já Escolheu</title>
+<meta name="description" content="Pessoas e entidades que declararam voto em Lula ou se posicionaram contra Flávio Bolsonaro no segundo turno de 2026, com link para a fonte.">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Figtree:wght@400;500;600;700&family=Permanent+Marker&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#mapa">Pular para as figuras públicas</a>
+<header class="top"><div class="wrap">
+  <a class="brand" href="#"><span class="dot"></span>Quem Já Escolheu</a>
+  <nav aria-label="Seções"><a href="#">Início</a><a href="#mapa">Nomes</a><a href="#entidades">Entidades</a><a href="#criterio">Critério</a><a href="#contato">Contato</a></nav>
+</div></header>
+
+<main id="topo">
+<div class="wrap">
+<section class="hero" aria-labelledby="h1">
+  <div class="confetti" id="confetti" aria-hidden="true"></div>
+  <p class="eyebrow">Segundo turno · domingo, 25 de outubro de 2026</p>
+  <h1 id="h1"><span class="w">Quem</span> <span class="w">já</span> <span class="w">escolheu</span> <span class="w hl">a democracia</span> <span class="slot"><span class="marker" id="stk">e o Brasil soberano</span></span></h1>
+  <p class="lead">Figuras públicas e entidades que declararam voto em Lula ou se posicionaram contra Flávio Bolsonaro neste segundo turno.</p>
+  <div class="row"><a class="btn" href="#mapa">Ver nomes</a><button class="btn ghost" id="rnd" type="button">Sortear um nome</button></div>
+  <div class="stats" id="stats"></div>
+</section>
+</div>
+
+<div class="belts" aria-hidden="true"><div class="belt"><div class="t" id="belt1"></div></div><div class="belt rev"><div class="t" id="belt2"></div></div><div class="belt"><div class="t" id="belt3"></div></div><div class="belt rev"><div class="t" id="belt4"></div></div><div class="belt"><div class="t" id="belt5"></div></div><div class="belt rev"><div class="t" id="belt6"></div></div><div class="belt"><div class="t" id="belt7"></div></div><div class="belt rev"><div class="t" id="belt8"></div></div></div>
+
+<section class="blk" id="mapa"><div class="wrap">
+  <header><p class="eyebrow">Arquivo completo</p><h2>Figuras públicas</h2></header>
+  <div class="tools">
+    <label for="q" class="eyebrow">Buscar por nome</label>
+    <input id="q" class="search" type="search" placeholder="Ex.: Gleiser, Marieta, Vik" autocomplete="off">
+    <p class="count" id="count" role="status"></p>
+  </div>
+  <ul class="grid" id="grid"></ul>
+  <p class="empty" id="empty" hidden>Nenhum nome encontrado. Tente outra grafia do nome.</p>
+</div></section>
+
+<section class="blk tint" id="entidades"><div class="wrap">
+  <header><p class="eyebrow">Coletivos, sindicatos, manifestos</p><h2>Entidades e manifestos</h2></header>
+  <div class="chips" id="echips" role="group" aria-label="Filtrar por tipo"></div>
+  <ul class="ents" id="ents"></ul>
+</div></section>
+
+<section class="blk" id="criterio"><div class="wrap">
+  <header><p class="eyebrow">Como lemos as fontes</p><h2>O que entra e o que fica de fora</h2></header>
+  <div class="rules">
+    <div class="rv yes"><h3>Entra</h3><p>Declaração própria de voto em Lula, participação em vídeo, ato ou manifesto pela reeleição, ou posicionamento público contra Flávio Bolsonaro, sempre com link para a matéria ou o post.</p></div>
+    <div class="rv no"><h3>Fica de fora</h3><p>Quem só repostou, foi marcado ou citado sem declaração, manifestos que dizem não indicar voto e declarações de eleições anteriores.</p></div>
+  </div>
+</div></section>
+
+<section class="blk tint" id="contato"><div class="wrap">
+  <header><p class="eyebrow">Faltou alguém ou algo está errado?</p><h2>Adicionar ou corrigir</h2></header>
+  <div class="two">
+    <div>
+      <p>A lista é incompleta: muita gente se posicionou só em stories ou em falas que ninguém registrou. Se você viu uma declaração pública de alguém que não está aqui, escreva com o nome e o link da fonte.</p>
+      <p>Erros acontecem. Se uma pessoa não disse o que está atribuído a ela, ou mudou de posição, avise e o nome é corrigido ou sai.</p>
+    </div>
+    <div class="mail-box">
+      <p class="eyebrow">Escreva para</p>
+      <p class="addr"><a href="mailto:quemjaescolheu@gmail.com">quemjaescolheu@gmail.com</a></p>
+    </div>
+  </div>
+</div></section>
+</main>
+<div class="wrap"><footer><span>Projeto independente, sem vínculo com partido ou campanha. Não é propaganda paga nem pesquisa eleitoral.</span><span id="upd"></span></footer></div>
+
+<dialog id="dlg" aria-labelledby="dt"><div class="in"><button class="btn ghost x" id="dx" type="button">Fechar</button><p class="eyebrow" id="dc"></p><h3 id="dt"></h3><p id="dq" class="dq"></p><ul id="dl"></ul></div></dialog>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
