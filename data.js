@@ -157,6 +157,10 @@ window.DATA = [
   "instagram": null,
   "links": [
    {
+    "rotulo": "Post no Instagram (@theinterceptbrasil)",
+    "url": "https://www.instagram.com/theinterceptbrasil/"
+   },
+   {
     "rotulo": "Polêmica Paraíba, 2º turno",
     "url": "https://www.polemicaparaiba.com.br/brasil/2o-turno-mais-de-100-influenciadores-cantores-atores-e-atletas-se-posicionam-a-favor-de-lula/"
    }
@@ -1549,8 +1553,12 @@ window.DATA = [
   "aba": "Atores e cinema",
   "categoria": "Atuação (TV, cinema e teatro)",
   "quem": "Ator/atriz",
-  "instagram": null,
+  "instagram": "@claudiaraia",
   "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/claudiaraia/"
+   },
    {
     "rotulo": "Agenda do Poder",
     "url": "https://agendadopoder.com.br/de-caetano-veloso-a-gusttavo-lima-veja-os-famosos-que-apoiam-lula-e-flavio-em-2026/"
@@ -2279,6 +2287,10 @@ window.DATA = [
   "instagram": null,
   "links": [
    {
+    "rotulo": "Post no Instagram (@brasi_leila)",
+    "url": "https://www.instagram.com/brasi_leila/"
+   },
+   {
     "rotulo": "Mídia NINJA, 8/10/2026",
     "url": "https://midianinja.org/mais-de-100-artistas-do-audiovisual-brasileiro-declaram-apoio-a-lula-no-2o-turno/"
    }
@@ -2794,8 +2806,12 @@ window.DATA = [
   "aba": "Atores e cinema",
   "categoria": "Atuação (TV, cinema e teatro)",
   "quem": "Ator, humorista e poeta",
-  "instagram": null,
+  "instagram": "@gduvivier",
   "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/gduvivier/"
+   },
    {
     "rotulo": "Mídia NINJA, 8/10/2026",
     "url": "https://midianinja.org/mais-de-100-artistas-do-audiovisual-brasileiro-declaram-apoio-a-lula-no-2o-turno/"
@@ -4328,7 +4344,7 @@ window.DATA = [
   "nome": "Luisa Mell",
   "aba": "Meio ambiente, povos e ativismo",
   "categoria": "Ativismo / apresentadora",
-  "quem": "Ativista da causa animal e apresentadora (pela fama pública; não conferi em fonte)",
+  "quem": "Ativista da causa animal e apresentadora",
   "instagram": "@luisamell",
   "links": [
    {
@@ -5825,8 +5841,12 @@ window.DATA = [
   "aba": "Atores e cinema",
   "categoria": "Atuação (TV, cinema e teatro)",
   "quem": "Atriz",
-  "instagram": null,
+  "instagram": "@paollaoliveirareal",
   "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/paollaoliveirareal/"
+   },
    {
     "rotulo": "O Povo, 16/10/2026",
     "url": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/10/16/lula-e-flavio-no-2-turno-quais-famosos-declararam-veja-lista.html"
@@ -8397,6 +8417,907 @@ window.DATA = [
    {
     "rotulo": "Jornal Económico (PT)",
     "url": "https://jornaleconomico.sapo.pt/noticias/eleicao-de-flavio-bolsonaro-seria-um-risco-economico-a-curto-e-longo-prazo-alerta-nobel-de-economia/"
+   }
+  ]
+ },
+ {
+  "nome": "Ignácio de Loyola Brandão",
+  "aba": "Literatura e jornalismo",
+  "categoria": "Literatura",
+  "quem": "Escritor",
+  "instagram": "@ignaciodeloyolabrandao",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/ignaciodeloyolabrandao/"
+   }
+  ]
+ },
+ {
+  "nome": "Vladimir Safatle",
+  "aba": "Ciência e educação",
+  "categoria": "Filosofia / academia",
+  "quem": "Filósofo e professor da USP",
+  "instagram": "@vladimirsafatle",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/vladimirsafatle/"
+   }
+  ]
+ },
+ {
+  "nome": "Cezar Berje",
+  "aba": "Artes visuais",
+  "categoria": "Ilustração",
+  "quem": "Ilustrador",
+  "instagram": "@cezarberje",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/cezarberje/"
+   }
+  ]
+ },
+ {
+  "nome": "Natália Bonavides",
+  "aba": "Direito e política",
+  "categoria": "Política",
+  "quem": "Deputada federal",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram (@brasi_leila)",
+    "url": "https://www.instagram.com/brasi_leila/"
+   }
+  ]
+ },
+ {
+  "nome": "Pedro Pascal",
+  "aba": "Atores e cinema",
+  "categoria": "Ator (internacional)",
+  "quem": "Ator",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram (@midianinja)",
+    "url": "https://www.instagram.com/midianinja/"
+   }
+  ]
+ },
+ {
+  "nome": "Alexandre Nero",
+  "aba": "Atores e cinema",
+  "categoria": "Atuação (TV, cinema e teatro)",
+  "quem": "Ator",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram (@midianinja)",
+    "url": "https://www.instagram.com/midianinja/"
+   }
+  ]
+ },
+ {
+  "nome": "Sandra Annenberg",
+  "aba": "Literatura e jornalismo",
+  "categoria": "Jornalismo / apresentadora",
+  "quem": "Jornalista e apresentadora",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram (@midianinja)",
+    "url": "https://www.instagram.com/midianinja/"
+   }
+  ]
+ },
+ {
+  "nome": "Reynaldo Gianecchini",
+  "aba": "Atores e cinema",
+  "categoria": "Atuação (TV, cinema e teatro)",
+  "quem": "Ator",
+  "instagram": "@reynaldogianecchini",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/reynaldogianecchini/"
+   }
+  ]
+ },
+ {
+  "nome": "Filipe Bragança",
+  "aba": "Atores e cinema",
+  "categoria": "Atuação (TV, cinema e teatro)",
+  "quem": "Ator (elenco de Chiquititas, 2013)",
+  "instagram": "@filipe_braganca",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/filipe_braganca/"
+   }
+  ]
+ },
+ {
+  "nome": "Lorena Tucci",
+  "aba": "Atores e cinema",
+  "categoria": "Atuação (TV, cinema e teatro)",
+  "quem": "Atriz (elenco de Chiquititas, 2013)",
+  "instagram": "@lorenatucci",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/lorenatucci/"
+   }
+  ]
+ },
+ {
+  "nome": "Giovanna Grigio",
+  "aba": "Atores e cinema",
+  "categoria": "Atuação (TV, cinema e teatro)",
+  "quem": "Atriz e cantora (elenco de Chiquititas, 2013)",
+  "instagram": "@gigigrigio",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/gigigrigio/"
+   }
+  ]
+ },
+ {
+  "nome": "Giselle Itié",
+  "aba": "Atores e cinema",
+  "categoria": "Atuação (TV, cinema e teatro)",
+  "quem": "Atriz",
+  "instagram": "@gitie",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/gitie/"
+   }
+  ]
+ },
+ {
+  "nome": "Samara Felippo",
+  "aba": "Atores e cinema",
+  "categoria": "Atuação (TV, cinema e teatro)",
+  "quem": "Atriz",
+  "instagram": "@sfelippo",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/sfelippo/"
+   }
+  ]
+ },
+ {
+  "nome": "Fafá de Belém",
+  "aba": "Músicos",
+  "categoria": "MPB",
+  "quem": "Cantora",
+  "instagram": "@fafadbelem",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/fafadbelem/"
+   }
+  ]
+ },
+ {
+  "nome": "Antonio Carlos Costa",
+  "aba": "Meio ambiente, povos e ativismo",
+  "categoria": "Direitos humanos / jornalismo",
+  "quem": "Jornalista, ativista de direitos humanos e fundador do Rio de Paz",
+  "instagram": "@antoniocarloscosta",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/antoniocarloscosta/"
+   }
+  ]
+ },
+ {
+  "nome": "Ludmila Dayer",
+  "aba": "Atores e cinema",
+  "categoria": "Atuação (TV, cinema e teatro)",
+  "quem": "Atriz, diretora e produtora",
+  "instagram": "@ludayer13",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/ludayer13/"
+   }
+  ]
+ },
+ {
+  "nome": "Ana Maria Braga",
+  "aba": "Literatura e jornalismo",
+  "categoria": "Apresentadora / TV",
+  "quem": "Apresentadora",
+  "instagram": "@anamariabragaoficial",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/anamariabragaoficial/"
+   }
+  ]
+ },
+ {
+  "nome": "Dani Gondim",
+  "aba": "Atores e cinema",
+  "categoria": "Atuação (TV, cinema e teatro)",
+  "quem": "Atriz cearense",
+  "instagram": "@danigondim1",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/danigondim1/"
+   }
+  ]
+ },
+ {
+  "nome": "Mariana Varella",
+  "aba": "Literatura e jornalismo",
+  "categoria": "Jornalismo de saúde",
+  "quem": "Jornalista de saúde e editora-chefe do Portal Drauzio",
+  "instagram": "@marifvarella",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/marifvarella/"
+   }
+  ]
+ },
+ {
+  "nome": "Margareth Dalcolmo",
+  "aba": "Ciência e educação",
+  "categoria": "Medicina / pesquisa",
+  "quem": "Pneumologista e pesquisadora da Fiocruz",
+  "instagram": "@margarethdalcolmo",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/margarethdalcolmo/"
+   }
+  ]
+ },
+ {
+  "nome": "Drauzio Varella",
+  "aba": "Ciência e educação",
+  "categoria": "Medicina",
+  "quem": "Médico",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram (@sitedrauziovarella)",
+    "url": "https://www.instagram.com/sitedrauziovarella/"
+   }
+  ]
+ },
+ {
+  "nome": "Mari Krüger",
+  "aba": "Influenciadores e criadores",
+  "categoria": "Criação de conteúdo",
+  "quem": "Criadora de conteúdo e bióloga",
+  "instagram": "@marikrugerb",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/marikrugerb/"
+   }
+  ]
+ },
+ {
+  "nome": "Daniel Andrade",
+  "aba": "Atores e cinema",
+  "categoria": "Atuação (TV, cinema e teatro)",
+  "quem": "Ator (elenco de Chiquititas, 2013)",
+  "instagram": "@danandrade",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/danandrade/"
+   }
+  ]
+ },
+ {
+  "nome": "Bruna Carvalho",
+  "aba": "Atores e cinema",
+  "categoria": "Atuação (TV, cinema e teatro)",
+  "quem": "Atriz (elenco de Chiquititas, 2013)",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram (@gigigrigio)",
+    "url": "https://www.instagram.com/gigigrigio/"
+   }
+  ]
+ },
+ {
+  "nome": "Homero Ligere",
+  "aba": "Atores e cinema",
+  "categoria": "Atuação (TV, cinema e teatro)",
+  "quem": "Ator (elenco de Chiquititas, 2013)",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram (@gigigrigio)",
+    "url": "https://www.instagram.com/gigigrigio/"
+   }
+  ]
+ },
+ {
+  "nome": "Lisandra Cortez",
+  "aba": "Atores e cinema",
+  "categoria": "Atuação (TV, cinema e teatro)",
+  "quem": "Atriz (elenco de Chiquititas, 2013)",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram (@gigigrigio)",
+    "url": "https://www.instagram.com/gigigrigio/"
+   }
+  ]
+ },
+ {
+  "nome": "Livia Inhudes",
+  "aba": "Atores e cinema",
+  "categoria": "Atuação (TV, cinema e teatro)",
+  "quem": "Atriz (elenco de Chiquititas, 2013)",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram (@gigigrigio)",
+    "url": "https://www.instagram.com/gigigrigio/"
+   }
+  ]
+ },
+ {
+  "nome": "Ronaldo Fenômeno",
+  "aba": "Esporte",
+  "categoria": "Futebol",
+  "quem": "Ex-jogador de futebol",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram (@cla_da_negritude)",
+    "url": "https://www.instagram.com/cla_da_negritude/"
+   }
+  ]
+ },
+ {
+  "nome": "Peixotan",
+  "aba": "Influenciadores e criadores",
+  "categoria": "Criação de conteúdo",
+  "quem": "Criador de conteúdo",
+  "instagram": "@peixotan",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/peixotan/"
+   }
+  ]
+ },
+ {
+  "nome": "Gabriel Terra",
+  "aba": "Atores e cinema",
+  "categoria": "Atuação (TV, cinema e teatro)",
+  "quem": "Ator e comunicador",
+  "instagram": "@gabrielpterra",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/gabrielpterra/"
+   }
+  ]
+ },
+ {
+  "nome": "Maria Bopp",
+  "aba": "Atores e cinema",
+  "categoria": "Atuação (TV, cinema e teatro)",
+  "quem": "Atriz e roteirista",
+  "instagram": "@mariabopp",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/mariabopp/"
+   }
+  ]
+ },
+ {
+  "nome": "Milly Lacombe",
+  "aba": "Literatura e jornalismo",
+  "categoria": "Jornalismo / literatura",
+  "quem": "Jornalista, escritora e cronista",
+  "instagram": "@mlacombe",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/mlacombe/"
+   }
+  ]
+ },
+ {
+  "nome": "Lau",
+  "aba": "Literatura e jornalismo",
+  "categoria": "Política / comunicação",
+  "quem": "Criadora de conteúdo e especialista em direito do Estado",
+  "instagram": "@lauanyschultz",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/lauanyschultz/"
+   }
+  ]
+ },
+ {
+  "nome": "Caio Manhente",
+  "aba": "Atores e cinema",
+  "categoria": "Atuação (TV, cinema e teatro)",
+  "quem": "Ator",
+  "instagram": "@caiomanhente",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/caiomanhente/"
+   }
+  ]
+ },
+ {
+  "nome": "Jessé Souza",
+  "aba": "Ciência e educação",
+  "categoria": "Sociologia",
+  "quem": "Escritor e sociólogo, reitor do ICL",
+  "instagram": "@jesse_souza1960",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/jesse_souza1960/"
+   }
+  ]
+ },
+ {
+  "nome": "Ailton Krenak",
+  "aba": "Meio ambiente, povos e ativismo",
+  "categoria": "Liderança indígena e ambiental",
+  "quem": "Líder indígena, escritor e pensador",
+  "instagram": "@_ailtonkrenak",
+  "links": [
+   {
+    "rotulo": "Perfil no Instagram",
+    "url": "https://www.instagram.com/_ailtonkrenak/"
+   }
+  ]
+ },
+ {
+  "nome": "Alinne",
+  "aba": "Músicos",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram",
+    "url": "https://www.instagram.com/p/Deu3MhSIhSg/"
+   }
+  ]
+ },
+ {
+  "nome": "Alulu Paranhos",
+  "aba": "Músicos",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram",
+    "url": "https://www.instagram.com/p/Deu3MhSIhSg/"
+   }
+  ]
+ },
+ {
+  "nome": "Clarisse Dessaune",
+  "aba": "Músicos",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram",
+    "url": "https://www.instagram.com/p/Deu3MhSIhSg/"
+   }
+  ]
+ },
+ {
+  "nome": "Fred Camacho",
+  "aba": "Músicos",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram",
+    "url": "https://www.instagram.com/p/Deu3MhSIhSg/"
+   }
+  ]
+ },
+ {
+  "nome": "Gabriel Mercury",
+  "aba": "Músicos",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram",
+    "url": "https://www.instagram.com/p/Deu3MhSIhSg/"
+   }
+  ]
+ },
+ {
+  "nome": "Julia Juazeira",
+  "aba": "Músicos",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram",
+    "url": "https://www.instagram.com/p/Deu3MhSIhSg/"
+   }
+  ]
+ },
+ {
+  "nome": "Mariana Baltar",
+  "aba": "Músicos",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram",
+    "url": "https://www.instagram.com/p/Deu3MhSIhSg/"
+   }
+  ]
+ },
+ {
+  "nome": "Mary Zélia",
+  "aba": "Músicos",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram",
+    "url": "https://www.instagram.com/p/Deu3MhSIhSg/"
+   }
+  ]
+ },
+ {
+  "nome": "Sued Nunes",
+  "aba": "Músicos",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram",
+    "url": "https://www.instagram.com/p/Deu3MhSIhSg/"
+   }
+  ]
+ },
+ {
+  "nome": "Bruno Sutter",
+  "aba": "Músicos",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Terra, 20/10/2026",
+    "url": "https://www.terra.com.br/diversao/musica/meu-sonora/mpb/bruno-sutter-e-ed-motta-declaram-apoio-a-lula-no-segundo-turno-das-eleicoes,dcfaf91994b87fd6bf1498baad30016axtgp7680.html"
+   }
+  ]
+ },
+ {
+  "nome": "Déa Lúcia",
+  "aba": "Músicos",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Viva, 21/10/2026",
+    "url": "https://viva.com.br/politica/quem-sao-os-famosos-que-declaram-apoio-a-lula-e-a-flavio-no-2-turno-veja.html"
+   }
+  ]
+ },
+ {
+  "nome": "Marcelinho Moreira",
+  "aba": "Músicos",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram",
+    "url": "https://www.instagram.com/p/Deu3MhSIhSg/"
+   }
+  ]
+ },
+ {
+  "nome": "Alice Carvalho",
+  "aba": "Atores e cinema",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Post no Instagram",
+    "url": "https://www.instagram.com/p/De2WziPJKy8/"
+   },
+   {
+    "rotulo": "Mídia NINJA, 8/10/2026",
+    "url": "https://midianinja.org/mais-de-100-artistas-do-audiovisual-brasileiro-declaram-apoio-a-lula-no-2o-turno/"
+   },
+   {
+    "rotulo": "Polêmica Paraíba, 2º turno",
+    "url": "https://www.polemicaparaiba.com.br/brasil/2o-turno-mais-de-100-influenciadores-cantores-atores-e-atletas-se-posicionam-a-favor-de-lula/"
+   }
+  ]
+ },
+ {
+  "nome": "Bárbara Reis",
+  "aba": "Atores e cinema",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Mídia NINJA, 8/10/2026",
+    "url": "https://midianinja.org/mais-de-100-artistas-do-audiovisual-brasileiro-declaram-apoio-a-lula-no-2o-turno/"
+   }
+  ]
+ },
+ {
+  "nome": "Betty Gofman",
+  "aba": "Atores e cinema",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Mídia NINJA, 8/10/2026",
+    "url": "https://midianinja.org/mais-de-100-artistas-do-audiovisual-brasileiro-declaram-apoio-a-lula-no-2o-turno/"
+   }
+  ]
+ },
+ {
+  "nome": "Catarina Abdalla",
+  "aba": "Atores e cinema",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Mídia NINJA, 8/10/2026",
+    "url": "https://midianinja.org/mais-de-100-artistas-do-audiovisual-brasileiro-declaram-apoio-a-lula-no-2o-turno/"
+   }
+  ]
+ },
+ {
+  "nome": "Dadá Coelho",
+  "aba": "Atores e cinema",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Mídia NINJA, 8/10/2026",
+    "url": "https://midianinja.org/mais-de-100-artistas-do-audiovisual-brasileiro-declaram-apoio-a-lula-no-2o-turno/"
+   }
+  ]
+ },
+ {
+  "nome": "Giovanna Nader",
+  "aba": "Atores e cinema",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Mídia NINJA, 8/10/2026",
+    "url": "https://midianinja.org/mais-de-100-artistas-do-audiovisual-brasileiro-declaram-apoio-a-lula-no-2o-turno/"
+   }
+  ]
+ },
+ {
+  "nome": "Jandir Ferrari",
+  "aba": "Atores e cinema",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Mídia NINJA, 8/10/2026",
+    "url": "https://midianinja.org/mais-de-100-artistas-do-audiovisual-brasileiro-declaram-apoio-a-lula-no-2o-turno/"
+   }
+  ]
+ },
+ {
+  "nome": "João Velho",
+  "aba": "Atores e cinema",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Mídia NINJA, 8/10/2026",
+    "url": "https://midianinja.org/mais-de-100-artistas-do-audiovisual-brasileiro-declaram-apoio-a-lula-no-2o-turno/"
+   }
+  ]
+ },
+ {
+  "nome": "Julia Rojas",
+  "aba": "Atores e cinema",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Mídia NINJA, 8/10/2026",
+    "url": "https://midianinja.org/mais-de-100-artistas-do-audiovisual-brasileiro-declaram-apoio-a-lula-no-2o-turno/"
+   },
+   {
+    "rotulo": "Lista de signatários do manifesto 'A cultura está com Lula e pede mudanças' (Google Docs, cerca de 700 nomes)",
+    "url": "https://docs.google.com/document/d/1dBH5RxfQL91eyJzmlOz24usi-h723mBu/edit"
+   },
+   {
+    "rotulo": "Portal Brasil Criativo, 18/9/2026",
+    "url": "https://portalbrasilcriativo.com.br/setor-cultural-lanca-manifesto-de-apoio-a-lula-eleicoes-2026/"
+   }
+  ]
+ },
+ {
+  "nome": "Lucy Barreto",
+  "aba": "Atores e cinema",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Mídia NINJA, 8/10/2026",
+    "url": "https://midianinja.org/mais-de-100-artistas-do-audiovisual-brasileiro-declaram-apoio-a-lula-no-2o-turno/"
+   },
+   {
+    "rotulo": "Lista de signatários do manifesto 'A cultura está com Lula e pede mudanças' (Google Docs, cerca de 700 nomes)",
+    "url": "https://docs.google.com/document/d/1dBH5RxfQL91eyJzmlOz24usi-h723mBu/edit"
+   },
+   {
+    "rotulo": "Portal Brasil Criativo, 18/9/2026",
+    "url": "https://portalbrasilcriativo.com.br/setor-cultural-lanca-manifesto-de-apoio-a-lula-eleicoes-2026/"
+   },
+   {
+    "rotulo": "Poder360, manifesto da cultura",
+    "url": "https://www.poder360.com.br/poder-cultura/artistas-apoiam-reeleicao-de-lula-e-cobram-mudancas-na-cultura/"
+   },
+   {
+    "rotulo": "Revista de Cinema, manifesto da cultura (600+ assinaturas)",
+    "url": "https://revistadecinema.com.br/2026/09/manifesto-da-cultura-ultrapassa-600-assinaturas-em-apoio-a-lula-e-por-mudancas-no-minc/"
+   },
+   {
+    "rotulo": "Tela Viva, manifesto da cultura, 23/9/2026",
+    "url": "https://telaviva.com.br/23/09/2026/manifesto-da-cultura-apoia-lula-mas-cobra-salto-qualitativo-e-guinada-na-politica-cultural/"
+   },
+   {
+    "rotulo": "Pretessências, manifesto da cultura",
+    "url": "https://www.pretessencias.com.br/politica/mais-de-550-artistas-assinam-manifesto-de-apoio-a-lula/"
+   },
+   {
+    "rotulo": "Portal Brasil Criativo, manifesto da cultura",
+    "url": "https://portalbrasilcriativo.com.br/setor-cultural-lanca-manifesto-de-apoio-a-lula-eleicoes-2026/"
+   },
+   {
+    "rotulo": "Tribuna do Sertão, manifesto 'A cultura está com Lula e pede mudanças', 18/9/2026",
+    "url": "https://tribunadosertao.com.br/poder-e-governo/2026/09/18/981543-novo-manifesto-de-artistas-de-apoio-a-lula-pede-mudancas-na-politica-cultural"
+   }
+  ]
+ },
+ {
+  "nome": "Luís Carlos Vasconcelos",
+  "aba": "Atores e cinema",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Mídia NINJA, 8/10/2026",
+    "url": "https://midianinja.org/mais-de-100-artistas-do-audiovisual-brasileiro-declaram-apoio-a-lula-no-2o-turno/"
+   },
+   {
+    "rotulo": "Lista de signatários do manifesto 'A cultura está com Lula e pede mudanças' (Google Docs, cerca de 700 nomes)",
+    "url": "https://docs.google.com/document/d/1dBH5RxfQL91eyJzmlOz24usi-h723mBu/edit"
+   },
+   {
+    "rotulo": "Portal Brasil Criativo, 18/9/2026",
+    "url": "https://portalbrasilcriativo.com.br/setor-cultural-lanca-manifesto-de-apoio-a-lula-eleicoes-2026/"
+   }
+  ]
+ },
+ {
+  "nome": "Luiz Melo",
+  "aba": "Atores e cinema",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Mídia NINJA, 8/10/2026",
+    "url": "https://midianinja.org/mais-de-100-artistas-do-audiovisual-brasileiro-declaram-apoio-a-lula-no-2o-turno/"
+   }
+  ]
+ },
+ {
+  "nome": "Nando Cunha",
+  "aba": "Atores e cinema",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Mídia NINJA, 8/10/2026",
+    "url": "https://midianinja.org/mais-de-100-artistas-do-audiovisual-brasileiro-declaram-apoio-a-lula-no-2o-turno/"
+   }
+  ]
+ },
+ {
+  "nome": "Quitéria Chagas",
+  "aba": "Atores e cinema",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Mídia NINJA, 8/10/2026",
+    "url": "https://midianinja.org/mais-de-100-artistas-do-audiovisual-brasileiro-declaram-apoio-a-lula-no-2o-turno/"
+   }
+  ]
+ },
+ {
+  "nome": "Tati Tibúrcio",
+  "aba": "Atores e cinema",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Mídia NINJA, 8/10/2026",
+    "url": "https://midianinja.org/mais-de-100-artistas-do-audiovisual-brasileiro-declaram-apoio-a-lula-no-2o-turno/"
+   }
+  ]
+ },
+ {
+  "nome": "Vitor DiCastro",
+  "aba": "Atores e cinema",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Mídia NINJA, 8/10/2026",
+    "url": "https://midianinja.org/mais-de-100-artistas-do-audiovisual-brasileiro-declaram-apoio-a-lula-no-2o-turno/"
+   }
+  ]
+ },
+ {
+  "nome": "Welder Rodrigues",
+  "aba": "Atores e cinema",
+  "categoria": "",
+  "quem": "",
+  "instagram": null,
+  "links": [
+   {
+    "rotulo": "Mídia NINJA, 8/10/2026",
+    "url": "https://midianinja.org/mais-de-100-artistas-do-audiovisual-brasileiro-declaram-apoio-a-lula-no-2o-turno/"
    }
   ]
  }

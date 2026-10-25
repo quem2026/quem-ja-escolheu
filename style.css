@@ -162,3 +162,4 @@ section,.hero{scroll-margin-top:84px}
 @media (max-width:370px){.top nav a{padding:5px 6px;font-size:.86rem}}
 @media (max-width:440px){.top nav a{padding:5px 5px;font-size:.9rem}}
 @media (max-width:370px){.top nav a{padding:5px 3px;font-size:.8rem}}
+.card .cat:empty{display:none}
